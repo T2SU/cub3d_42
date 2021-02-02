@@ -1,0 +1,28 @@
+
+NO		./textures/brick_north.png
+EA		./textures/brick_east.png
+SO		./textures/brick_south.png
+WE		./textures/brick_west.png
+
+S		./sprites/medikit_doom2.png
+
+R		1024 768
+F		0,		128,	0
+
+C		0,		255,	255
+
+11111111111111
+1S000000020001  1111
+12222210010211  1001
+12212210020001  1111
+11111111111111
+
+11111
+110011
+11111
+11
+
+
+      1
+
+

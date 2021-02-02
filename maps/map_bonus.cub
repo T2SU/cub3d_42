@@ -1,0 +1,99 @@
+R		1024 768
+
+WL1		./textures/wall1%.png
+WL2		./textures/wall2%.png
+WL3		./textures/wall3%.png
+WL4		./textures/wall4%.png
+WL5		./textures/wall5%.png
+WL6		./textures/wall6%.png
+WL7		./textures/wall7%.png
+WL8		./textures/wall8%.png
+WL9		./textures/wall9%.png
+
+SKY		./textures/sky2%.png
+FLR		./textures/floor4%.png
+ITEM1	./sprites/medikit_doom2%.png
+
+SPRIT1	./sprites/sprite1%.png
+SPRIT2	./sprites/sprite2%.png
+SPRIT3	./sprites/sprite3%.png
+SPRIT4	./sprites/sprite4%.png
+MONEY	./sprites/money5%.png
+M1A0	./sprites/enemy1stand%.png
+M1A1	./sprites/enemy1walk%.png
+M1A2	./sprites/enemy1attack%.png
+M1A3	./sprites/enemy1hit%.png
+M1A4	./sprites/enemy1die%.png
+M2A0	./sprites/enemy2stand%.png
+M2A1	./sprites/enemy2walk%.png
+M2A2	./sprites/enemy2attack%.png
+M2A3	./sprites/enemy2hit%.png
+M2A4	./sprites/enemy2die%.png
+W0		./sprites/weapon0%.png
+W1		./sprites/weapon1%.png
+W2		./sprites/weapon2%.png
+AW1		./sprites/weapon1Ammo%.png
+AW2		./sprites/weapon2Ammo%.png
+IW2		./sprites/weapon2Item%.png
+
+DR1		./textures/door1%.png
+DR2		./textures/door2%.png
+
+SCORE	./ui/score%.png
+DIGIT	./ui/digit%.png
+HP		./ui/hp%.png
+CRH		./ui/crosshair%.png
+LOSE	./ui/gameover%.png
+WIN		./ui/gamewin%.png
+BAR		./ui/healthbargray%.png
+GAU		./ui/healthbargauge%.png
+
+        11111
+        1AGA1     1111
+        1m2m1    11mM1
+        10@01    1a0m1
+1111171111@11171110a01
+1Ea00D0w00M0w0D00M!10111111
+111117111C0C117111111s000C1
+  11m1  1CnC1 1m0000100M001
+  17D7  1CaC1 7D71100a000e1
+111101116C0C611011111111116111111        333333333
+1a00000Bma0amBm00B2712a0m00C1mAm1        300PmP003
+1M0A0e0000A0000e000D000mw0M0@@2M1        4Lm000mL4
+1a00000Bm000mBm00B2712a0m00C1mAm1        3000s0003
+1111111111011111111  111116111111        334303433
+ 111111  7D7   111111111                    505
+ 10B00171101171100w00Cm1                    8D8
+ 1M0em0D00000D00a0000m01                 334303433
+ 10B001710M0171100w00Cm11111             300C0C003
+ 111111 1m0m1  111111111MAG1             3000s00033353343
+        11011  11111110000A1             5000M0005300m0M4
+         7D7   11mam0^^600M1             300s0s0033a00M03
+        11011  1!M1111111111             3000M0003300m0m3
+        10n01  1!11                      3m40004m330A0005
+      1110001111011111111111 3333333353333530003533000a03
+      10000000B00w00200B0001730L0wP00000400P000P030033333
+      1C00M00000m00000000w00D00a00M00000000m0G0m0$$43
+      10000000Ba0w00200B0001730L0wP00000400P0m0P03333
+      1111111111C11111111111 3333333353333333M3333
+               111                          8d8
+                                            303
+                                    3533533330333353353
+                                    5M000000mMm000000M5
+                                    300343P00000P343003
+                                    50m4 4a00000a4 4m05
+                                    300343P00000P343003
+                                    3M000000000000000M3
+                                    5A0000000X0000000A5
+                                    300343P00000P343003
+                                    50m4 4a00000a4 4m05
+                                    300343P00000P343003
+                                    3000a000000000a0003
+                                    3M00000CmMmC00000M3
+                                    3333333330333333333
+                                            8d8
+                                        16666066661
+                                        2L000000002
+                                        20000000002
+                                        2C0P000P0C2
+                                        16666966661

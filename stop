@@ -1,0 +1,8 @@
+#!/bin/sh
+
+#
+# stops the sound file which is playing back by './play'
+# usage:   stop PATH_TO_SND_FILE
+#
+
+kill `ps -ax | egrep " \./play +.*? *$1" | grep -oE "\d+" | head -n1` 2&> /dev/null
