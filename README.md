@@ -30,9 +30,9 @@
     - [x] Weapons and bad guys to fight!
 
 ## Screenshot
-  ![Screenshot1](https://github.com/T2SU/cub3d_42/blob/readme/screenshot1.png)
-  ![Screenshot2](https://github.com/T2SU/cub3d_42/blob/readme/screenshot2.png)
-  ![Screenshot3](https://github.com/T2SU/cub3d_42/blob/readme/screenshot4.png)
+  ![Screenshot1](https://github.com/T2SU/cub3d_42/blob/master/screenshot1.png)
+  ![Screenshot2](https://github.com/T2SU/cub3d_42/blob/master/screenshot2.png)
+  ![Screenshot3](https://github.com/T2SU/cub3d_42/blob/master/screenshot4.png)
 
 ## Playthrough Video
   - [Youtube](https://youtu.be/FKgrcHuAg20)
