@@ -4,7 +4,7 @@
 
 - You have to draw a realistic 3D using RayCaster.
 - Developed as mlx using Metal, it can only be run on Intel Mac, including 42 schools.
-- [Subject](https://cdn.intra.42.fr/pdf/pdf/17279/en.subject.pdf)
+- [Subject](https://github.com/T2SU/cub3d_42/blob/master/subject.en.pdf)
 
 ## Result
 
@@ -111,7 +111,7 @@
 
 #### Skybox ::
   - Box 'O Skies v3 by Mechadon
-  -  (https://www.doomworld.com/forum/topic/92795-meks-box-o-skies-v3-look-up-in-the-sky-more-skies/?page=2)
+  -  (https://www.doomworld.com/forum/post/1969145)
 
 #### Door ::
   - Wolfenstein 3D - id Software
@@ -122,3 +122,6 @@
 
 #### Modern Society
   - (https://themeui.net/modern-society-free-font/)
+
+#### Nanum Gothic (NHN NAVER Corp.)
+  - (https://hangeul.naver.com/font)
