@@ -3,20 +3,22 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: smun <smun@student.42seoul.kr>             +#+  +:+       +#+         #
+#    By: smun <smun@student.42.fr>                  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/01/12 12:02:21 by smun              #+#    #+#              #
-#    Updated: 2021/01/31 15:14:41 by smun             ###   ########.fr        #
+#    Updated: 2022/07/16 20:36:16 by smun             ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
+RM = rm
+RMFLAGS = -rf
 #CFLAGS = -Wall -Wextra -Werror -g
 #CFLAGS = -Wall -Wextra -Werror -g -fsanitize=address
 LIB_MLX = libmlx.dylib
 INC = -I$(MLX_DIR) -I./libft
-LIB = -L./libft -lft -L$(MLX_DIR) -lmlx -framework OpenGL -framework AppKit -lz
+LIB = -L./libft -L. -lft -lmlx -framework OpenGL -framework AppKit -lz
 
 NAME = cub3D
 
@@ -112,13 +114,13 @@ BOBJ = $(B_SRC:.c=.o)
 
 ifeq ($(MAKECMDGOALS), bonus)
 	INCCUB3D = -I$(B_DIR)
-	MLX_DIR = ./minilibx_mms_20200219
+	MLX_DIR = ./minilibx_mms_20210621
 else ifeq ($(MAKECMDGOALS), creb)
 	INCCUB3D = -I$(B_DIR)
-	MLX_DIR = ./minilibx_mms_20200219
+	MLX_DIR = ./minilibx_mms_20210621
 else
 	INCCUB3D = -I$(M_DIR)
-	MLX_DIR = ./minilibx_mms_20200219
+	MLX_DIR = ./minilibx_mms_20210621
 endif
 
 ## ALL
@@ -143,7 +145,7 @@ creb : cfclean bonus
 
 clean : cclean
 	$(MAKE) $@ -C libft
-	rm -rf $(LIB_MLX)
+	$(RM) $(RMFLAGS) $(LIB_MLX)
 	$(MAKE) $@ -C $(MLX_DIR)
 
 fclean : clean cfclean
@@ -157,24 +159,25 @@ re : fclean all
 %.o : %.c
 	$(CC) $(CFLAGS) $(INCCUB3D) $(INC) -c $< -o $@
 
-
 ## Binary Creation
 
-$(NAME) : libft mlx $(OBJ)
+$(NAME) : ./libft/libft.a ./$(LIB_MLX) $(OBJ)
 	$(CC) $(CFLAGS) -o $(NAME) $(LIB) $(OBJ)
-	install_name_tool -change $(LIB_MLX) "@loader_path/$(MLX_DIR)/$(LIB_MLX)" $(NAME)
 
-bonus : libft mlx $(BOBJ)
+# install_name_tool -change $(LIB_MLX) "@loader_path/$(MLX_DIR)/$(LIB_MLX)" $(NAME)
+
+bonus : ./libft/libft.a ./$(LIB_MLX) $(BOBJ)
 	$(CC) $(CFLAGS) -o $(NAME) $(LIB) $(BOBJ)
-	install_name_tool -change $(LIB_MLX) "@loader_path/$(MLX_DIR)/$(LIB_MLX)" $(NAME)
+# install_name_tool -change $(LIB_MLX) "@loader_path/$(MLX_DIR)/$(LIB_MLX)" $(NAME)
 
 ## Libraries
 
-mlx :
+./$(LIB_MLX):
 	$(MAKE) -C $(MLX_DIR)
+	mv ./$(MLX_DIR)/$(LIB_MLX) ./
 
-libft :
-	$(MAKE) -C $@
+./libft/libft.a :
+	$(MAKE) -C libft
 
 
 ## Norminette for convinient
@@ -186,4 +189,4 @@ norme:
 
 ## .PHONY
 
-.PHONY: all clean fclean re bonus norme libft mlx cclean cfclean cre creb
+.PHONY: all clean fclean re bonus norme cclean cfclean cre creb
