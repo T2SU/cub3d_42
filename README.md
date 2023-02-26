@@ -23,6 +23,15 @@ make bonus
 ./cub3D ./maps/map_bonus.cub
 ```
 
+## Controls
+
+| Function | Input                        |
+| :------: | :--------------------------: |
+| Move     | W, A, S, D                   |
+| Aim      | Mouse move                   |
+| Fire     | Mouse left click / Left ctrl |
+| Interact | Space                        |
+
 
 ## Result
 
