@@ -3,8 +3,26 @@
 ## Summary
 
 - You have to draw a realistic 3D using RayCaster.
-- Developed as mlx using Metal, it can only be run on Intel Mac, including 42 schools.
+- My cub3D was developed using Metal via mlx, and is only compatible with macOS.
 - [Subject](https://github.com/T2SU/cub3d_42/blob/master/subject.en.pdf)
+
+## Build & Run
+- To build and run this, you will need a macOS system. (Apple Silicon or Intel)
+1. Clone the repository
+```
+git clone https://github.com/T2SU/cub3d_42.git
+```
+
+2. Navigate to the cloned repository directory and build it. This will create the bonus subject output.
+```
+make bonus
+```
+
+3. Run the game with the bonus map.
+```
+./cub3D ./maps/map_bonus.cub
+```
+
 
 ## Result
 
@@ -45,8 +63,8 @@
   - [Make Your Own Raycaster](https://www.youtube.com/watch?v=gYRrGTC7GtA)
   - [Wolfenstein's Map Renderer](https://www.youtube.com/watch?v=eOCQfxRQ2pY)
 
-## Copyright CREDIT for Library/Utilities/Resources
-  - All rights are belong to proper right holder.
+## CREDIT for Library/Utilities/Resources
+  - All rights belong to proper right holder.
 
 ### LIBRARY
 
