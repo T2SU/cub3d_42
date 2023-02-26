@@ -25,12 +25,12 @@ make bonus
 
 ## Controls
 
-| Function | Input                        |
-| :------: | :--------------------------: |
-| Move     | W, A, S, D                   |
-| Aim      | Mouse move                   |
-| Fire     | Mouse left click / Left ctrl |
-| Interact | Space                        |
+| Function | Input                       |
+| :------: | :-------------------------: |
+| Move     | W, A, S, D                  |
+| Aim      | Mouse move,  Keyboard ↑↓←→  |
+| Fire     | Mouse left click, Left ctrl |
+| Interact | Space                       |
 
 
 ## Result
