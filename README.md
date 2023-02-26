@@ -31,6 +31,7 @@ make bonus
 | Aim      | Mouse move,  Keyboard ↑↓←→  |
 | Fire     | Mouse left click, Left ctrl |
 | Interact | Space                       |
+| WeaponSwitch | 1 ~ 3 (Kick, Pistol, Shotgun) |
 
 
 ## Result
