@@ -28,7 +28,7 @@ make bonus
 | Function | Input                       |
 | :------: | :-------------------------: |
 | Move     | W, A, S, D                  |
-| Aim      | Mouse move,  Keyboard ↑↓←→  |
+| Aim      | Mouse move,  Keyboard ←→  |
 | Fire     | Mouse left click, Left ctrl |
 | Interact | Space                       |
 | WeaponSwitch | 1 ~ 3 (Kick, Pistol, Shotgun) |
