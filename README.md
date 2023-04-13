@@ -40,12 +40,12 @@ make bonus
 
 ## Cheats
 
-|                          Function                          | Input |
-| :--------------------------------------------------------: | :---: |
-|                      Toggle God mode                       |  F1   |
-|                    Toggle Infinity ammo                    |  F2   |
-| Toggle transcendence mode<br/>(Enemy doesn't shoot player) |  F3   |
-|                    Toggle one shot mode                    |  F4   |
+|                             Function                              | Input |
+| :---------------------------------------------------------------: | :---: |
+|                          Toggle God mode                          |  F1   |
+|                       Toggle Infinity ammo                        |  F2   |
+| Toggle transcendence mode<br/>(Enemy doesn't shoot at the player) |  F3   |
+|                       Toggle one shot mode                        |  F4   |
 
 ## Result
 
