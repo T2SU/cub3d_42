@@ -6,7 +6,7 @@
 /*   By: smun <smun@student.42seoul.kr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/01 06:29:32 by smun              #+#    #+#             */
-/*   Updated: 2021/01/31 14:51:47 by smun             ###   ########.fr       */
+/*   Updated: 2023/04/13 14:53:02 by smun             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -48,10 +48,8 @@ static long		get_nbr(const char *str, long neg)
 int				util_atoi(const char *str)
 {
 	long		neg;
-	int			i;
 
 	neg = 1;
-	i = 0;
 	while (ft_isspace(*str))
 		str++;
 	if (*str == '-' || *str == '+')
