@@ -46,7 +46,7 @@ All rights are belong to proper right holder.
  - Ammo
  - Medikit
   * Doom - id Software
-    Doom HD Textures And Sprites by BohdanZPM
+    Doom HD Textures And Sprites by BohdanZPM (*deleted)
      (https://www.moddb.com/mods/doom-hd-textures-and-sprites-pack/downloads/doom-hd-textures-and-sprites-pack1)
 
  - Weapon
@@ -74,12 +74,12 @@ All rights are belong to proper right holder.
 
  - Floor, Wall
   * Doom - id Software
-    Doom HD Textures And Sprites by BohdanZPM
+    Doom HD Textures And Sprites by BohdanZPM (*deleted)
      (https://www.moddb.com/mods/doom-hd-textures-and-sprites-pack/downloads/doom-hd-textures-and-sprites-pack1)
 
  - Skybox
   * Box 'O Skies v3 by Mechadon
-     (https://www.doomworld.com/forum/topic/92795-meks-box-o-skies-v3-look-up-in-the-sky-more-skies/?page=2)
+     (https://www.doomworld.com/forum/post/1969145)
 
  - Door
   * Wolfenstein 3D - id Software

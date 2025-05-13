@@ -100,20 +100,15 @@ make bonus
 - ver. Apple Metal (minilibx_mms_20200219_beta)
   by Olivier Crouzet <ol@42.fr>
 
-#### MIDImyAPP - play/stop utility
-
-- (http://www.bibiko.de/music/MIDImyAPP/)
+#### [MIDImyAPP - play/stop utility](http://www.bibiko.de/music/MIDImyAPP/)
 
 ### SOUND
 
 #### Music ::
 
-- The Sisters of Mercy - Black Planet ; Instrumental Cover by PythonBlue
-- (https://soundcloud.com/pythonblue/sisters-of-mercy-black-planet)
-- Jun Ishikawa - Dedede's Royal Payback (Nintendo 3DS; Kirby Triple Deluxe OST)
-- (https://www.youtube.com/watch?v=wYmMty5O86k)
-- The little dinasour dooly Cinematic Ending song
-- (https://www.youtube.com/watch?v=LUOPgy-CFfo)
+- [The Sisters of Mercy - Black Planet ; Instrumental Cover by PythonBlue](https://soundcloud.com/pythonblue/sisters-of-mercy-black-planet)
+- [Jun Ishikawa - Dedede's Royal Payback (Nintendo 3DS; Kirby Triple Deluxe OST)](https://www.youtube.com/watch?v=wYmMty5O86k)
+- [The little dinasour dooly Cinematic Ending song](https://www.youtube.com/watch?v=LUOPgy-CFfo)
 
 #### SFX ::
 
@@ -126,59 +121,44 @@ make bonus
 #### Burning Drum, Candles, Hud Images, Ammo, Medikit ::
 
 - Doom - id Software
-- Doom HD Textures And Sprites by BohdanZPM
-- (https://www.moddb.com/mods/doom-hd-textures-and-sprites-pack/downloads/doom-hd-textures-and-sprites-pack1)
+- [Doom HD Textures And Sprites by BohdanZPM (_*deleted_)](https://www.moddb.com/mods/doom-hd-textures-and-sprites-pack/downloads/doom-hd-textures-and-sprites-pack1)
 
 #### Weapon ::
 
 - Duke Nukem 3D - 3D Realms (Apogee Software)
-- Duke Nukem 3D Upscale Pack 1.1b w. Nuclear Winter sprites
-- (https://www.moddb.com/games/duke-nukem-3d/addons/duke-nukem-3d-upscale-pack-11-w-nuclear-winter-sprites)
+- [Duke Nukem 3D Upscale Pack 1.1b w. Nuclear Winter sprites](https://www.moddb.com/games/duke-nukem-3d/addons/duke-nukem-3d-upscale-pack-11-w-nuclear-winter-sprites)
 
 #### Money ::
 
-- Bundles of Dollars
-- (https://www.hiclipart.com/free-transparent-background-png-clipart-iirow)
+- [Bundles of Dollars](https://www.hiclipart.com/free-transparent-background-png-clipart-iirow)
 
 #### Crosshair ::
 
-- 64 crosshairs pack by para
-- (https://opengameart.org/content/64-crosshairs-pack)
+- [64 crosshairs pack by para](https://opengameart.org/content/64-crosshairs-pack)
 
 #### Health Bar ::
 
-- Nxoe Theme Hud March Ui - Hud PNG
-- (https://flyclipart.com/nxoe-theme-hud-march-ui-hud-png-873195#)
+- [Nxoe Theme Hud March Ui - Hud PNG](https://flyclipart.com/nxoe-theme-hud-march-ui-hud-png-873195#)
 
 ### TEXTURE
 
-#### Brick (Mandatory Part) ::
-
-- (https://www.pinterest.com/pin/782430135244108623/)
+#### [Brick (Mandatory Part)](https://www.pinterest.com/pin/782430135244108623/) ::
 
 #### Floor, Wall ::
 
 - Doom - id Software
-- Doom HD Textures And Sprites by BohdanZPM
-- (https://www.moddb.com/mods/doom-hd-textures-and-sprites-pack/downloads/doom-hd-textures-and-sprites-pack1)
+- [Doom HD Textures And Sprites by BohdanZPM (_*deleted_)](https://www.moddb.com/mods/doom-hd-textures-and-sprites-pack/downloads/doom-hd-textures-and-sprites-pack1)
 
 #### Skybox ::
 
-- Box 'O Skies v3 by Mechadon
-- (https://www.doomworld.com/forum/post/1969145)
+- [Box 'O Skies v3 by Mechadon](https://www.doomworld.com/forum/post/1969145)
 
 #### Door ::
 
 - Wolfenstein 3D - id Software
-- Doom II - Wolfenstein Door 02 by Hoover1979
-- (https://www.deviantart.com/hoover1979/art/Doom-II-Wolfenstein-Door-02-698895747)
+- [Doom II - Wolfenstein Door 02 by Hoover1979](https://www.deviantart.com/hoover1979/art/Doom-II-Wolfenstein-Door-02-698895747)
 
 ### FONT
 
-#### Modern Society
-
-- (https://themeui.net/modern-society-free-font/)
-
-#### Nanum Gothic (NHN NAVER Corp.)
-
-- (https://hangeul.naver.com/font)
+#### [Modern Society](https://themeui.net/modern-society-free-font/)
+#### [Nanum Gothic (NHN NAVER Corp.)](https://hangeul.naver.com/font)
